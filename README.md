@@ -47,16 +47,6 @@ If you’re following along, you’ll see **exactly how much focused effort it t
 
 ---
 
-## 📂 Repo Structure
-100-hours-to-golang-job/
-├── README.md # You are here
-├── logs/ # Daily logs of contributions
-├── streams/ # Links to Twitch/YouTube streams
-├── issues_fixed/ # Notes about solved issues with PR links
-└── reflections.md # Lessons learned across the journey
-
----
-
 ## 📺 Streams
 - [Twitch Channel](https://www.twitch.tv/adityamishra675) (live coding & OSS contributions)
 - Highlights will be added under `/streams`
