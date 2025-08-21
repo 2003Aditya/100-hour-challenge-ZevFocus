@@ -3,25 +3,7 @@
 This is my personal challenge: I have **100 hours** to contribute to open-source Golang projects and land a job.
 I’ll stream my journey, document everything here, and share my progress openly.
 
----
-
-## ⏳ The Secret Weapon: ZevFocus
-
-This journey is powered by **[ZevFocus](https://zevfocus.github.io/ZevFocus)** — a CLI I built that tracks **real deep work**, not just hours spent in front of a laptop.
-
-Here’s why it’s different:
-- 🔒 **Tamper-proof** — you can’t fake your work stats
-- 🧠 **Active vs Idle** — it knows when I’m truly working vs. distracted
-- 📊 **Transparent** — every session is logged and shared here
-- 🚀 **Proof of consistency** — no vague “I coded a lot today,” only real, verifiable data
-
-So when I say I put in **100 hours**, you’ll see the *actual proof*.
-Most people *talk* about discipline — I’m literally logging mine in public.
-
-👉 Every log in this repo is tracked by ZevFocus.
-If you’re following along, you’ll see **exactly how much focused effort it takes to break into a Golang job in weeks.**
-
-*(Fair warning: once you see this kind of visibility, it’s hard to go back to “just guessing” your productivity.)*
+⏳ Powered by **ZevFocus** — *Hack your time, not just your code.*
 
 ---
 
@@ -36,6 +18,7 @@ If you’re following along, you’ll see **exactly how much focused effort it t
 - **100 hours total**, streamed & logged
 - Daily contributions + write-ups in `/logs`
 - Push updates after every session
+- All time tracked and verified using **ZevFocus**
 
 ---
 
@@ -47,18 +30,47 @@ If you’re following along, you’ll see **exactly how much focused effort it t
 
 ---
 
+## 📂 Repo Structure
+100-hours-to-golang-job/
+├── README.md # You are here
+├── logs/ # Daily logs of contributions
+├── streams/ # Links to Twitch/YouTube streams
+├── issues_fixed/ # Notes about solved issues with PR links
+└── reflections.md # Lessons learned across the journey
+
+---
+
 ## 📺 Streams
 - [Twitch Channel](https://www.twitch.tv/adityamishra675) (live coding & OSS contributions)
 - Highlights will be added under `/streams`
 
+💡 On stream, you’ll see **ZevFocus in action** — showing my real focus vs idle time. No fake grinding.
+
+---
+
+## 🌟 ZevFocus
+**ZevFocus** is a productivity tracker I built to power this challenge.
+It tracks **real deep work time**, distinguishing between *active* and *idle*, so there’s no way to fake progress.
+
+✔️ Tamper-proof
+✔️ Shareable logs
+✔️ Built for developers
+
+If you want to track your own deep work:
+👉 [Check out ZevFocus](https://zevfocus.github.io/ZevFocus)
+
 ---
 
 ## 🙌 Connect With Me
-- GitHub: [Aditya Mishra](https://github.com/2003Aditya)
-- LinkedIn: [mishraaditya675](https://linkedin.com/in/adityamishra675)
+- GitHub: [2003Aditya](https://github.com/2003Aditya)
+- LinkedIn: [Adityamishra675](https://linkedin.com/in/adityamishra675)
 - Twitter: [@mishraaditya675](https://x.com/mishraaditya675)
 
 ---
 
 ### 🌟 Why I’m Doing This
-I believe that **open source + consistency + visibility** is the fastest way to grow as a developer and land meaningful opportunities. This repo is my transparent journey toward that goal.
+I believe that **open source + consistency + visibility** is the fastest way to grow as a developer and land meaningful opportunities.
+
+That’s why I’m using **ZevFocus** — because if I can’t prove my hours, then my grind doesn’t matter.
+This repo is my transparent journey toward a Golang job — no excuses, no shortcuts, only verified deep work.
+
